@@ -28,7 +28,4 @@ This repository contains my submission for the **Eduminatti Web Development Inte
 ## 📎 Submission  
 The final analysis and recommendations are documented in the attached files.  
 
-## 📬 Contact  
-For any queries, feel free to reach out to me!  
-✉️ **Email:** your-email@example.com  
-📌 **GitHub Profile:** [Your GitHub Profile Link](https://github.com/YourGitHubUsername)  
+ 
